@@ -1,6 +1,3 @@
-# Exclude the banking_data1 directory
 banking_data1/
-
-# Exclude the gpt_profile.py file
 gpt_profile.py
 
