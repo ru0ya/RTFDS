@@ -22,16 +22,20 @@ The development process involved several key steps:
 ### Tools
 The following tools were utilized in the development of the fraud detection system:
 
-- **Pyspark**: Efficiently processed and analyzed large volumes of data in a distributed computing environment.
+- **Pyspark**: Efficiently processed and analyzed large volumes of data in a distributed computing environment.  
   
-- **Kafka**: Facilitated real-time data streaming and communication between system components.
-  
-- **Zookeeper**: Provided coordination and management capabilities for Kafka, ensuring reliability and fault tolerance.
-  
-- **Postgresql (Psycopg2)**: Served as the primary data source and destination for storing and retrieving transaction data.
-  
-- **Redis**: Used for caching and enhancing the performance of specific operations within the system.
+- **Kafka**: Facilitated real-time data streaming and communication between system components.  
 
-## Conclusion
-This README provides an overview of the motivation, development process, and tools used in building the Real-Time Fraud Detection System. For more detailed information, refer to the individual components and documentation within the repository.
+  
+- **Zookeeper**: Provided coordination and management capabilities for Kafka, ensuring reliability and fault tolerance.  
 
+  
+- **Postgresql (Psycopg2)**: Served as the primary data source and destination for storing and retrieving transaction data.  
+
+  
+- **Redis**: Used for caching and enhancing the performance of specific operations within the system.  
+
+
+## Conclusion  
+
+This README provides an overview of the motivation, development process, and tools used in building the Real-Time Fraud Detection System. For more detailed information, refer to the individual components and documentation within the repository.  
